@@ -1,7 +1,7 @@
 function f() {
-	console.log("Run function f()")
+    return 2 + 2;
 }
 
 
 
-f()
+f();
