@@ -4,4 +4,4 @@ function f() {
 
 
 
-f()
+f();
